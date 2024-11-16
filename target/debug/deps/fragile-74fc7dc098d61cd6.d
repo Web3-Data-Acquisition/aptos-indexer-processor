@@ -1,0 +1,11 @@
+/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/libfragile-74fc7dc098d61cd6.rmeta: /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/lib.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/errors.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/fragile.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/registry.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/semisticky.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/sticky.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/thread_id.rs
+
+/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/fragile-74fc7dc098d61cd6.d: /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/lib.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/errors.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/fragile.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/registry.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/semisticky.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/sticky.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/thread_id.rs
+
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/lib.rs:
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/errors.rs:
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/fragile.rs:
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/registry.rs:
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/semisticky.rs:
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/sticky.rs:
+/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/fragile-2.0.0/src/thread_id.rs:

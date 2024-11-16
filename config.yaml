@@ -1,0 +1,16 @@
+# This is a template yaml for the aptos-indexer-processor.
+health_check_port: 8085
+server_config:
+  processor_config:
+    type: "events_processor"
+  # backfill_config:
+  #   backfill_alias: "events_processor_backfill_1"
+  transaction_stream_config:
+    indexer_grpc_data_service_address: "https://grpc.mainnet.aptoslabs.com:443"
+    starting_version: 0
+    # request_ending_version: 1
+    auth_token: "aptoslabs_BJt11M3dLJ5_FWgMEXKd5v4hRKWoV8hzdnUygRMRKwj88"
+    request_name_header: "events-processor"
+  db_config:
+    # postgres_connection_string: postgresql://postgres:mm123123@localhost:5432/postgres
+    postgres_connection_string: postgresql://postgres:mm123123@localhost:5432/demo

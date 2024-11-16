@@ -1,4 +1,0 @@
-cargo:rerun-if-changed=build.rs
-cargo:rustc-cfg=default_backend
-cargo:rustc-cfg=prometheus_client
-cargo:rustc-cfg=prometheus_exporter

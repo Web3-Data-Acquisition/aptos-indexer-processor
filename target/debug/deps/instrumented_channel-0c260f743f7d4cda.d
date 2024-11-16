@@ -1,8 +1,0 @@
-/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/libinstrumented_channel-0c260f743f7d4cda.rmeta: /Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/lib.rs /Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/channel_metrics.rs
-
-/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/libinstrumented_channel-0c260f743f7d4cda.rlib: /Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/lib.rs /Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/channel_metrics.rs
-
-/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/instrumented_channel-0c260f743f7d4cda.d: /Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/lib.rs /Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/channel_metrics.rs
-
-/Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/lib.rs:
-/Users/gongmiaomiao/.cargo/git/checkouts/aptos-indexer-processor-sdk-2f3940a333c8389d/8920726/aptos-indexer-processors-sdk/instrumented-channel/src/channel_metrics.rs:

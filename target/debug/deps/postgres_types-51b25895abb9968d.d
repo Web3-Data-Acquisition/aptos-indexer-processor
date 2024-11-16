@@ -1,9 +1,0 @@
-/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/libpostgres_types-51b25895abb9968d.rmeta: /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs
-
-/Users/gongmiaomiao/Rust-Projects/aptos-indexer-processor/target/debug/deps/postgres_types-51b25895abb9968d.d: /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs /Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs
-
-/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/lib.rs:
-/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/pg_lsn.rs:
-/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/private.rs:
-/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/special.rs:
-/Users/gongmiaomiao/.cargo/registry/src/index.crates.io-6f17d22bba15001f/postgres-types-0.2.7/src/type_gen.rs:

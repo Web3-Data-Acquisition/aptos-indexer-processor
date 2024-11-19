@@ -47,19 +47,17 @@ impl EventsProcessor {
         )
         .await;
 
-        // Merge the starting version from config and the latest processed version from the DB
+        // 合并配置中的起始版本和数据库中最新处理的版本
         let starting_version = get_starting_version(&self.config, self.db_pool.clone()).await?;
-        println!("thsi is start verioson ___________{:?}", starting_version);
 
-        // Check and update the ledger chain id to ensure we're indexing the correct chain
+        // 检查并更新分类账链 ID，以确保我们索引正确的链
         let grpc_chain_id = TransactionStream::new(self.config.transaction_stream_config.clone())
             .await?
             .get_chain_id()
             .await?;
-        println!("thsi is grpc chain id ----------================={:?}", grpc_chain_id);
         check_or_update_chain_id(grpc_chain_id as i64, self.db_pool.clone()).await?;
 
-        // Define processor steps
+        // 定义处理器步骤
         let transaction_stream_config = self.config.transaction_stream_config.clone();
         info!("this++++++ is------- a *******transaction{:?}", transaction_stream_config);
 

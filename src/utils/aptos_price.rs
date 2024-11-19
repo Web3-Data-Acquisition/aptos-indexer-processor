@@ -2,6 +2,7 @@ use reqwest;
 use serde_json::Value;
 
 
+// 通过币安会aptos的实时价格
 pub async fn get_aptos_price() -> Option<f64> {
     let url = "https://api.binance.com/api/v3/ticker/price?symbol=APTUSDT";
 

@@ -17,7 +17,10 @@ use diesel::{
     query_builder::QueryFragment,
     ExpressionMethods,
 };
+use redis::{Client, Commands};
+use regex::Regex;
 use serde::{Deserialize, Serialize};
+use serde_json::{Value, json};
 
 use tracing::{error, info};
 
@@ -97,6 +100,40 @@ fn insert_events_query(
         })
         .cloned()
         .collect();
+
+    // let client = redis::Client::open("redis://127.0.0.1/6379/").expect("Faialed to create Redis client");
+    // let mut con = client.get_connection().expect("Failed to connect to Redis");
+
+    // let filetered_items_list = filtered_items.clone();
+    // for item_info in filetered_items_list.iter() {
+        // let _message = item_info.clone();
+        // let _: ()=con.publish("aptos-move-price", "111").expect("Failed to publish message");
+
+
+        // println!("---------------this is item_info---------------: {:?}", item_info);
+        // println!("---------------this is item_info---------------: {:?}", item_info.type_);
+
+        // let re  = Regex::new(r"[<,]").unwrap();
+
+        // let parts: Vec<&str> = re.split(item_info.type_).collect();
+
+
+        // println!("---------------this is item_info---------------: {:?}", item_info.data);
+        
+        // let data = json!(item_info.data);
+        // if let Value::Object(map) = data {
+        //     for (key, value) in &map {
+        //         if let Value::String(str_value) = value {
+        //             println!("{}: {}", key, str_value);  // 打印每个键和对应的字符串值
+        //         } else {
+        //             println!("{}: (not a string)", key);  // 处理非字符串的情况
+        //         }
+        //     }
+        // } else {
+        //     println!("Expected JSON object but found other type.");
+        // }
+    // }
+
 
     use schema::events::dsl::*;
     (

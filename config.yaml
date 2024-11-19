@@ -19,5 +19,5 @@ server_config:
     # auth_token: "aptoslabs_NSsNLoTSNCm_PNHeux1DDWTMUDaPYshsDk34jqyMyuVR5"
     request_name_header: "events-processor"
   db_config:
-    postgres_connection_string: postgresql://postgres@localhost:5432/postgres
+    postgres_connection_string: postgresql://postgres:postgres@localhost:5432/postgres
     # postgres_connection_string: postgresql://postgres:mm123123@localhost:5432/test
